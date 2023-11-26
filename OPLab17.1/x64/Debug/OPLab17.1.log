@@ -1,0 +1,6 @@
+﻿  OPLab17.1.cpp
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab17\OPLab17.1\OPLab17.1.cpp(26,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab17\OPLab17.1\OPLab17.1.cpp(26,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab17\OPLab17.1\OPLab17.1.cpp(26,13): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab17\OPLab17.1\OPLab17.1.cpp(26,13): message : this argument is used as a buffer size
+  OPLab17.1.vcxproj -> C:\Users\Oleksandr\Desktop\лабивізуал\OPLab17\x64\Debug\OPLab17.1.exe
