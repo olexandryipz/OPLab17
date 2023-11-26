@@ -22,14 +22,14 @@ int golosnaLetter(char ch) {
 int main() {
     char letter;
 
-    printf("Введіть букву: ");
+    printf("Введіть літеру: ");
     scanf_s("%c", &letter);
 
     if (golosnaLetter(letter)) {
-        printf("Буква голосна.\n");
+        printf("Літера голосна.\n");
     }
     else {
-        printf("Буква не голосна.\n");
+        printf("Літера не голосна.\n");
     }
 
     return 0;
